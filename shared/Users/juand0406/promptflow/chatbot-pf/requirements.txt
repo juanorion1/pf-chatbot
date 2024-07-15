@@ -1,0 +1,4 @@
+langdetect==1.0.9
+promptflow
+promptflow-vectordb[azure]==0.2.9
+pyodbc
